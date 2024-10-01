@@ -41,12 +41,12 @@ function clockApp() {
         currentQuote: '',
         notes: '',
         websites: [
-            { url: 'https://github.com/hasinhayder/' },
-            { url: 'https://github.com/hasinhayder/cronos' },
-            { url: 'https://www.linkedin.com/in/thestoryteller/' },
-            { url: 'https://www.facebook.com/hasin' },
-            { url: 'https://twitter.com/hasin' },
-            { url: 'https://medium.com/@hasinhayder' }
+            { url: 'https://github.com/nomandhoni-cs/' },
+            { url: 'https://github.com/nomandhoni-cs/cronos' },
+            { url: 'https://www.linkedin.com/in/nomandhoni/' },
+            { url: 'https://www.facebook.com/nomandhoni.official' },
+            { url: 'https://twitter.com/nomandhoni' },
+            { url: 'https://medium.com/@nomandhoni' }
         ],
         themes: themes,
         timezones: timezones,
