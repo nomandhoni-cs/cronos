@@ -105,6 +105,8 @@ function clockApp() {
             particles.forEach((particle) => {
                 particle.className = `particle ${this.themes[this.currentTheme].website}`
             })
+             this.saveToLocalStorage()
+            
         },
         createParticles() {
             const container = document.getElementById('particles-container')
